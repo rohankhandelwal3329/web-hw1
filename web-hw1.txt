@@ -1,4 +1,4 @@
 Name: Rohan Khandelwal
-Live URL: https://codd.cs.gsu.edu/~jdoe/web/hw1/index.html
-GitHub: https://github.com/johndoe/web-hw1
+Live URL: https://codd.cs.gsu.edu/~rkhandelwal2/WP/HW/HW1/index.html
+GitHub: https://github.com/rohankhandelwal3329/web-hw1
 Notes: All requirements completed and validated.
