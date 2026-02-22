@@ -717,6 +717,36 @@ section {
     color: var(--color-text-muted);
 }
 
+.status-completed {
+    background: rgba(39, 174, 96, 0.1);
+    color: #27ae60;
+}
+
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 1rem;
+}
+
+.project-links a {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 5px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-text-secondary);
+    transition: all var(--transition-smooth);
+}
+
+.project-links a:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+    background: rgba(45, 52, 54, 0.05);
+}
+
 /* Hobbies Section */
 .hobbies-section {
     background: var(--color-bg-secondary);
